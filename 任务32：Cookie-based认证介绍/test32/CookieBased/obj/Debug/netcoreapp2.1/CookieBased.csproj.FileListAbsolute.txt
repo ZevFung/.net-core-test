@@ -72,7 +72,6 @@ E:\冯子武工作文件夹\GitHub\.net-core-test\任务32：Cookie-based认证�
 E:\冯子武工作文件夹\GitHub\.net-core-test\任务32：Cookie-based认证介绍\test32\CookieBased\bin\Debug\netcoreapp2.1\CookieBased.pdb
 E:\冯子武工作文件夹\GitHub\.net-core-test\任务32：Cookie-based认证介绍\test32\CookieBased\bin\Debug\netcoreapp2.1\CookieBased.Views.dll
 E:\冯子武工作文件夹\GitHub\.net-core-test\任务32：Cookie-based认证介绍\test32\CookieBased\bin\Debug\netcoreapp2.1\CookieBased.Views.pdb
-E:\冯子武工作文件夹\GitHub\.net-core-test\任务32：Cookie-based认证介绍\test32\CookieBased\obj\Debug\netcoreapp2.1\CookieBased.csprojAssemblyReference.cache
 E:\冯子武工作文件夹\GitHub\.net-core-test\任务32：Cookie-based认证介绍\test32\CookieBased\obj\Debug\netcoreapp2.1\CookieBased.csproj.CoreCompileInputs.cache
 E:\冯子武工作文件夹\GitHub\.net-core-test\任务32：Cookie-based认证介绍\test32\CookieBased\obj\Debug\netcoreapp2.1\CookieBased.RazorAssemblyInfo.cache
 E:\冯子武工作文件夹\GitHub\.net-core-test\任务32：Cookie-based认证介绍\test32\CookieBased\obj\Debug\netcoreapp2.1\CookieBased.RazorAssemblyInfo.cs
